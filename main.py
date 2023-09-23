@@ -1,5 +1,5 @@
 from tkinter import *
-
+#calculadora
 root = Tk()
 root.title("minha calculadora")
 root.geometry("488x355")
